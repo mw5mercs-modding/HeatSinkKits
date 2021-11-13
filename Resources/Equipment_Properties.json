@@ -69,9 +69,9 @@
 			"DoubleHeatSink"
 		],
 		"weapons": {
-			"traceHeatMulti": 0.07,
-			"ballisticHeatMulti": 0.07,
-			"missleHeatMulti": 0.07
+			"traceHeatMulti": 0.97,
+			"ballisticHeatMulti": 0.97,
+			"missleHeatMulti": 0.97
 		},
 		"rarity": 0.04
 	},
