@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HeatSinkKits",
+	"Description": "",
+	"Category": "Equipment",
+	"CreatedBy": "trueg",
+	"CreatedByURL": "https://github.com/mw5mercs-modding/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"IsMod": true,
+	"Installed": false
+}

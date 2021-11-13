@@ -1,0 +1,15 @@
+{
+   "displayName" : "HeatSinkKits",
+   "version" : "0.1",
+   "buildNumber" : 5,
+   "description" : "Introduces Heat sink kits which replace the YAML engine double heat sinks.\nWith this mod different types of heat sinks cannot be mixed anymore and require an appropriate heat sink kit.",
+   "author" : "truegerich",
+   "authorURL" : "",
+   "defaultLoadOrder" : 10,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

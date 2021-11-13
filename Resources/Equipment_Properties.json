@@ -1,0 +1,12 @@
+{
+	"DoubleHeatSink": {
+		"mechRequirements": [
+			"Cooling_diss100"
+		]
+	},
+	"SingleHeatSink": {
+		"mechConflicts": [
+			"Cooling_diss100"
+		]
+	}
+}
