@@ -1,4 +1,4 @@
-# Double HeatSinkKits - A Mechwarrior 5 Mercs Mod
+# HeatSinkKits - A Mechwarrior 5 Mercs Mod
 
 This mod introduces Heat Sink Kits which are installed in the YAML Engine Double Heatsink slot. 
 Different heat sink types cannot be mixed anymore and require a compatible heat sink kit. So in order to equip double heat sinks
