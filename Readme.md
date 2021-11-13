@@ -8,6 +8,8 @@ one first needs to install a double heat sink kit, the same for Clan or Compact 
 - Double Heat Sink Kit (replaces YAML's Engine Double Heat Sinks)
 - Compact Heat Sink Kit
 - Clan Double Heat Sink Kit
+- Prototype Heat Sink Kit
+- Prototype Double Heat Sink - 0.12 cooling, 1 ton, 1 slot, 3% less weapon heat, can explode
 
 ## Dependencies
 
