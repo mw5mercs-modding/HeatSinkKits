@@ -20,7 +20,8 @@
 			"COMPACT_HS_KIT",
 			"CompactHeatSink79",
 			"DoubleHeatSink"
-		]
+		],
+		"rarity": 0.1
 	},
 	"ClanLHS79": {
 		"mechRequirements": [
@@ -31,7 +32,8 @@
 			"COMPACT_HS_KIT",
 			"CompactHeatSink79",
 			"DoubleHeatSink"
-		]
+		],
+		"rarity": 0.08
 	},
 	"CompactHeatSink79": {
 		"mechRequirements": [
@@ -43,7 +45,8 @@
 			"ClanLHS79",
 			"ClanDHS79",
 			"DoubleHeatSink"
-		]
+		],
+		"rarity": 0.1
 	},
 	"SingleHeatSink": {
 		"mechConflicts": [
@@ -55,5 +58,14 @@
 			"ClanDHS79",
 			"DoubleHeatSink"
 		]
+	},
+	"Cooling_diss100": {
+		"rarity": 0.1
+	},
+	"CLAN_DHS_KIT": {
+		"rarity": 0.08
+	},
+	"COMPACT_HS_KIT": {
+		"rarity": 0.08
 	}
 }
