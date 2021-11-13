@@ -2,11 +2,58 @@
 	"DoubleHeatSink": {
 		"mechRequirements": [
 			"Cooling_diss100"
+		],
+		"mechConflicts": [
+			"CLAN_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"CompactHeatSink79",
+			"ClanLHS79",
+			"ClanDHS79"
+		]
+	},
+	"ClanDHS79": {
+		"mechRequirements": [
+			"CLAN_DHS_KIT"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"COMPACT_HS_KIT",
+			"CompactHeatSink79",
+			"DoubleHeatSink"
+		]
+	},
+	"ClanLHS79": {
+		"mechRequirements": [
+			"CLAN_DHS_KIT"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"COMPACT_HS_KIT",
+			"CompactHeatSink79",
+			"DoubleHeatSink"
+		]
+	},
+	"CompactHeatSink79": {
+		"mechRequirements": [
+			"COMPACT_HS_KIT"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"CLAN_DHS_KIT",
+			"ClanLHS79",
+			"ClanDHS79",
+			"DoubleHeatSink"
 		]
 	},
 	"SingleHeatSink": {
 		"mechConflicts": [
-			"Cooling_diss100"
+			"Cooling_diss100",
+			"CLAN_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"CompactHeatSink79",
+			"ClanLHS79",
+			"ClanDHS79",
+			"DoubleHeatSink"
 		]
 	}
 }
