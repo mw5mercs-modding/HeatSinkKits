@@ -71,7 +71,8 @@
 		"weapons": {
 			"traceHeatMulti": 0.97,
 			"ballisticHeatMulti": 0.97,
-			"missleHeatMulti": 0.97
+			"missileHeatMulti": 0.97,
+			"ppcHeatMulti": 0.97
 		},
 		"rarity": 0.04
 	},
@@ -103,7 +104,8 @@
 		"weapons": {
 			"traceHeatMulti": 0.7,
 			"ballisticHeatMulti": 0.7,
-			"missleHeatMulti": 0.7
+			"missileHeatMulti": 0.7,
+			"ppcHeatMulti": 0.7
 		}
 	}
 }
