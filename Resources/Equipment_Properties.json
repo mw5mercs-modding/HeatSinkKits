@@ -90,7 +90,8 @@
 		]
 	},
 	"Cooling_diss100": {
-		"rarity": 0.1
+		"rarity": 0.1,
+		"name": "Double Heat Sink Kit"
 	},
 	"CLAN_DHS_KIT": {
 		"rarity": 0.08
