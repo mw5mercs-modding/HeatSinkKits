@@ -1,0 +1,7 @@
+[
+{
+	"name": "HeatDamageHandler",
+	"type": "mech",
+	"actorClassPath": "/HeatSinkKits/Extensions/HeatDamageHandler.HeatDamageHandler_C"
+}
+]

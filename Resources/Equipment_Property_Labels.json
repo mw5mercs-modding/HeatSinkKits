@@ -1,0 +1,20 @@
+{
+	"heatActivationThreshold": {
+		"label": "Heat threshold for chance of failure",
+		"unit": "percent"
+	},
+	"heatDeactivationThreshold": {
+		"label": "Heat threshold for normalization",
+		"unit": "percent"
+	},
+	"heatFailureChancePerSec": {
+		"label": "Failure chance per second",
+		"unit": "percent"
+	},
+	"heatDamageOnFailure": {
+		"label": "Heat Damage on failure"
+	},
+	"damageOnFailure": {
+		"label": "Damage on failure"
+	}
+}
