@@ -16,5 +16,8 @@
 	},
 	"damageOnFailure": {
 		"label": "Damage on failure"
+	},
+	"heatDissWhenActive": {
+		"label": "Heat dissipation when active"
 	}
 }
