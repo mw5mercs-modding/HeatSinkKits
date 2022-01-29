@@ -3,5 +3,10 @@
 	"name": "HeatDamageHandler",
 	"type": "mech",
 	"actorClassPath": "/HeatSinkKits/Extensions/HeatDamageHandler.HeatDamageHandler_C"
+},
+{
+	"name": "HeatSinkKitGlobals",
+	"type": "global",
+	"actorClassPath": "/HeatSinkKits/Extensions/HeatSinkKitGlobals.HeatSinkKitGlobals_C"
 }
 ]
