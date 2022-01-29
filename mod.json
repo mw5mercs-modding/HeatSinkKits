@@ -1,16 +1,16 @@
 {
    "displayName" : "HeatSinkKits",
    "version" : "0.1",
-   "buildNumber" : 41,
-   "description" : "Introduces Heat sink kits which replace the YAML engine double heat sinks.\nWith this mod different types of heat sinks cannot be mixed anymore and require an appropriate heat sink kit.",
-   "author" : "truegerich",
+   "buildNumber" : 22,
+   "description" : "This mod introduces Heat Sink Kits which are installed in the YAML Engine Double Heatsink slot. \r\nDifferent heat sink types cannot be mixed anymore and require a compatible heat sink kit. So in order to equip double heat sinks\r\none first needs to install a double heat sink kit, the same for Clan or Compact Heat Sinks.\r\n\r\nNew Equipments\r\n=============\r\n- Double Heat Sink Kit (replaces YAML's Engine Double Heat Sinks)\r\n- Compact Heat Sink Kit\r\n- Clan Double Heat Sink Kit\r\n- Prototype Heat Sink Kit\r\n- Prototype Double Heat Sink - 0.12 cooling, 1 ton, 1 slot, 3% less weapon heat, can explode\r\n",
+   "author" : "trueg",
    "authorURL" : "",
    "defaultLoadOrder" : 0,
    "gameVersion" : "1.1.0",
    "manifest" : [
       
    ],
-   "steamPublishedFileId" : 0,
-   "steamLastSubmittedBuildNumber" : 0,
-   "steamModVisibility" : "Private"
+   "steamPublishedFileId" : 2734273507,
+   "steamLastSubmittedBuildNumber" : 12,
+   "steamModVisibility" : "Public"
 }

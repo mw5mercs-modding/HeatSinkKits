@@ -88,10 +88,10 @@
 			]
 		},
 		"rarity": 0.04,
-		"heatActivationThreshold": 0.85,
+		"heatActivationThreshold": 0.9,
 		"heatDeactivationThreshold": 0.7,
-		"heatFailureChancePerSec": 0.005,
-		"damageOnFailure": 2
+		"heatFailureChancePerSec": 0.001,
+		"damageOnFailure": 1
 	},
 	"SingleHeatSink": {
 		"mechConflicts": [
@@ -133,9 +133,9 @@
 			]
 		},
 		"engineHeatsinkMulti": 0,
-		"heatActivationThreshold": 0.8,
-		"heatDeactivationThreshold": 0.6,
-		"heatFailureChancePerSec": 0.005,
+		"heatActivationThreshold": 0.9,
+		"heatDeactivationThreshold": 0.65,
+		"heatFailureChancePerSec": 0.002,
 		"heatDamageOnFailure": 0.5,
 		"damageOnFailure": 4
 	},
@@ -156,9 +156,9 @@
 		},
 		"engineHeatsinkMulti": 0,
 		"heatActivationThreshold": 0.8,
-		"heatDeactivationThreshold": 0.4,
+		"heatDeactivationThreshold": 0.3,
 		"heatDissWhenActive": 1.5,
-		"heatFailureChancePerSec": 0.005,
+		"heatFailureChancePerSec": 0.004,
 		"heatDamageOnFailure": 1,
 		"damageOnFailure": 8
 	},
@@ -167,9 +167,9 @@
 		"loreAccurate": false,
 		"rarity": 0.02,
 		"heatActivationThreshold": 0.9,
-		"heatDeactivationThreshold": 0.6,
+		"heatDeactivationThreshold": 0.4,
 		"heatDissWhenActive": 0.8,
-		"heatFailureChancePerSec": 0.01,
+		"heatFailureChancePerSec": 0.003,
 		"heatDamageOnFailure": 0.6,
 		"damageOnFailure": 6
 	}
