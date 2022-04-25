@@ -1,6 +1,6 @@
 {
 	"heatActivationThreshold": {
-		"label": "Heat threshold for chance of failure",
+		"label": "Heat threshold for activation",
 		"unit": "percent"
 	},
 	"heatDeactivationThreshold": {
