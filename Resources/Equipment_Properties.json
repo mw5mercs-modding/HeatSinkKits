@@ -33,7 +33,8 @@
 			"DHS_QS",
 			"DHS_KIT_QS"
 		],
-		"rarity": 0.1
+		"rarity": 0.1,
+		"module": "Clan"
 	},
 	"ClanLHS79": {
 		"mechRequirements": [
@@ -51,7 +52,8 @@
 			"DHS_QS",
 			"DHS_KIT_QS"
 		],
-		"rarity": 0.08
+		"rarity": 0.08,
+		"module": "Clan"
 	},
 	"CompactHeatSink79": {
 		"mechRequirements": [
@@ -140,6 +142,6 @@
 		],
 		"loreAccurate": false,
 		"rarity": 0.1,
-		"module": "quikcsell"
+		"module": "Quikcsell"
 	}
 }
