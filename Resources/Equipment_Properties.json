@@ -19,7 +19,7 @@
 	},
 	"ClanDHS79": {
 		"mechRequirements": [
-			"CLAN_DHS_KIT"
+			"Equipment.Cooling.ClanDouble"
 		],
 		"mechConflicts": [
 			"Cooling_diss100",
@@ -38,7 +38,7 @@
 	},
 	"ClanLHS79": {
 		"mechRequirements": [
-			"CLAN_DHS_KIT"
+			"Equipment.Cooling.ClanDouble"
 		],
 		"mechConflicts": [
 			"Cooling_diss100",
