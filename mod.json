@@ -1,16 +1,14 @@
 {
-   "displayName" : "Heat Sink Kits",
-   "version" : "1.4.1",
-   "buildNumber" : 46,
-   "description" : "This mod introduces heat sink installation restrictions for the heat sink kits from The Equipment Collection formerly known as Harjel.\r\nDifferent heat sink types cannot be mixed anymore and require a compatible heat sink kit. So in order to equip double heat sinks\r\none first needs to install a double heat sink kit, the same for Clan or Compact Heat Sinks.",
-   "author" : "trueg",
-   "authorURL" : "",
-   "defaultLoadOrder" : 9,
-   "gameVersion" : "1.1.0",
-   "manifest" : [
-      
-   ],
-   "steamPublishedFileId" : 2734273507,
-   "steamLastSubmittedBuildNumber" : "46",
-   "steamModVisibility" : "Public"
+	"displayName": "Yet Another Heatsink Restriction",
+	"version": "1.4.2",
+	"buildNumber": 47,
+	"description": "This mod introduces heat sink installation restrictions for the heat sink kits from The Equipment Collection formerly known as Harjel.\r\nDifferent heat sink types cannot be mixed anymore and require a compatible heat sink kit. So in order to equip double heat sinks\r\none first needs to install a double heat sink kit, the same for Clan or Compact Heat Sinks.",
+	"author": "trueg",
+	"authorURL": "",
+	"defaultLoadOrder": 9,
+	"gameVersion": "1.1.0",
+	"manifest": [],
+	"steamPublishedFileId": 2734273507,
+	"steamLastSubmittedBuildNumber": 47,
+	"steamModVisibility": "Public"
 }
