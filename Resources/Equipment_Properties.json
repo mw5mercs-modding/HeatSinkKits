@@ -13,7 +13,11 @@
 			"ClanDHS79",
 			"PROTO_DHS",
 			"DHS_QS",
-			"DHS_KIT_QS"
+			"DHS_KIT_QS",
+			"DoubleHeatSinkC",
+			"DoubleHeatSinkC1",
+			"DoubleHeatSinkC2",
+			"CorrosiveHeatSink"
 		],
 		"rarity": 0.2
 	},
@@ -31,7 +35,10 @@
 			"DoubleHeatSink",
 			"PROTO_DHS",
 			"DHS_QS",
-			"DHS_KIT_QS"
+			"DHS_KIT_QS",
+			"DoubleHeatSinkP",
+			"DoubleHeatSinkR",
+			"CorrosiveHeatSink"
 		],
 		"rarity": 0.1,
 		"module": "Clan"
@@ -50,7 +57,10 @@
 			"DoubleHeatSink",
 			"PROTO_DHS",
 			"DHS_QS",
-			"DHS_KIT_QS"
+			"DHS_KIT_QS",
+			"DoubleHeatSinkP",
+			"DoubleHeatSinkR",
+			"CorrosiveHeatSink"
 		],
 		"rarity": 0.08,
 		"module": "Clan"
@@ -58,7 +68,7 @@
 	"CompactHeatSink79": {
 		"bundledHeatsinks": 2,
 		"mechRequirements": [
-			"COMPACT_HS_KIT"
+			"Equipment.Cooling.Compact"
 		],
 		"mechConflicts": [
 			"Cooling_diss100",
@@ -71,7 +81,13 @@
 			"DoubleHeatSink",
 			"PROTO_DHS",
 			"DHS_QS",
-			"DHS_KIT_QS"
+			"DHS_KIT_QS",
+			"DoubleHeatSinkC",
+			"DoubleHeatSinkC1",
+			"DoubleHeatSinkC2",
+			"DoubleHeatSinkP",
+			"DoubleHeatSinkR",
+			"CorrosiveHeatSink"
 		],
 		"rarity": 0.1
 	},
@@ -88,7 +104,13 @@
 			"ClanDHS79",
 			"DoubleHeatSink",
 			"DHS_QS",
-			"DHS_KIT_QS"
+			"DHS_KIT_QS",
+			"DoubleHeatSinkC",
+			"DoubleHeatSinkC1",
+			"DoubleHeatSinkC2",
+			"DoubleHeatSinkP",
+			"DoubleHeatSinkR",
+			"CorrosiveHeatSink"
 		],
 		"weapons": {
 			"groups": [
@@ -121,7 +143,12 @@
 			"DoubleHeatSink",
 			"PROTO_DHS",
 			"DHS_QS",
-			"DHS_KIT_QS"
+			"DHS_KIT_QS",
+			"DoubleHeatSinkC",
+			"DoubleHeatSinkC1",
+			"DoubleHeatSinkC2",
+			"DoubleHeatSinkP",
+			"DoubleHeatSinkR"
 		]
 	},
 	"DHS_QS": {
@@ -139,7 +166,13 @@
 			"ClanLHS79",
 			"ClanDHS79",
 			"DoubleHeatSink",
-			"PROTO_DHS"
+			"PROTO_DHS",
+			"DoubleHeatSinkC",
+			"DoubleHeatSinkC1",
+			"DoubleHeatSinkC2",
+			"DoubleHeatSinkP",
+			"DoubleHeatSinkR",
+			"CorrosiveHeatSink"
 		],
 		"loreAccurate": false,
 		"rarity": 0.1,
