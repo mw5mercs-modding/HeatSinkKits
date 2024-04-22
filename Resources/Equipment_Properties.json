@@ -6,6 +6,7 @@
 		"mechConflicts": [
 			"CLAN_DHS_KIT",
 			"COMPACT_HS_KIT",
+			"RADICAL_COMPACT_KIT",
 			"PROTO_DHS_KIT",
 			"RADICAL_PROTO_DHS_KIT",
 			"CompactHeatSink79",
@@ -27,8 +28,82 @@
 		],
 		"mechConflicts": [
 			"Cooling_diss100",
+			"ROYAL_DHS_KIT",
 			"RADICAL_DHS_KIT",
 			"COMPACT_HS_KIT",
+			"RADICAL_COMPACT_KIT",
+			"PROTO_DHS_KIT",
+			"RADICAL_PROTO_DHS_KIT",
+			"CompactHeatSink79",
+			"DoubleHeatSink",
+			"PROTO_DHS",
+			"DHS_QS",
+			"DHS_KIT_QS",
+			"DoubleHeatSinkP",
+			"DoubleHeatSinkR",
+			"CorrosiveHeatSink"
+		],
+		"rarity": 0.1,
+		"module": "Clan"
+	},
+	"DoubleHeatSinkC": {
+		"mechRequirements": [
+			"Equipment.Cooling.ClanDouble"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"ROYAL_DHS_KIT",
+			"RADICAL_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"RADICAL_COMPACT_KIT",
+			"PROTO_DHS_KIT",
+			"RADICAL_PROTO_DHS_KIT",
+			"CompactHeatSink79",
+			"DoubleHeatSink",
+			"PROTO_DHS",
+			"DHS_QS",
+			"DHS_KIT_QS",
+			"DoubleHeatSinkP",
+			"DoubleHeatSinkR",
+			"CorrosiveHeatSink"
+		],
+		"rarity": 0.1,
+		"module": "Clan"
+	},
+	"DoubleHeatSinkC1": {
+		"mechRequirements": [
+			"Equipment.Cooling.ClanDouble"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"ROYAL_DHS_KIT",
+			"RADICAL_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"RADICAL_COMPACT_KIT",
+			"PROTO_DHS_KIT",
+			"RADICAL_PROTO_DHS_KIT",
+			"CompactHeatSink79",
+			"DoubleHeatSink",
+			"PROTO_DHS",
+			"DHS_QS",
+			"DHS_KIT_QS",
+			"DoubleHeatSinkP",
+			"DoubleHeatSinkR",
+			"CorrosiveHeatSink"
+		],
+		"rarity": 0.1,
+		"module": "Clan"
+	},
+	"DoubleHeatSinkC2": {
+		"mechRequirements": [
+			"Equipment.Cooling.ClanDouble"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"ROYAL_DHS_KIT",
+			"RADICAL_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"RADICAL_COMPACT_KIT",
 			"PROTO_DHS_KIT",
 			"RADICAL_PROTO_DHS_KIT",
 			"CompactHeatSink79",
@@ -49,8 +124,10 @@
 		],
 		"mechConflicts": [
 			"Cooling_diss100",
+			"ROYAL_DHS_KIT",
 			"RADICAL_DHS_KIT",
 			"COMPACT_HS_KIT",
+			"RADICAL_COMPACT_KIT",
 			"PROTO_DHS_KIT",
 			"RADICAL_PROTO_DHS_KIT",
 			"CompactHeatSink79",
@@ -72,6 +149,7 @@
 		],
 		"mechConflicts": [
 			"Cooling_diss100",
+			"ROYAL_DHS_KIT",
 			"RADICAL_DHS_KIT",
 			"CLAN_DHS_KIT",
 			"PROTO_DHS_KIT",
@@ -97,9 +175,11 @@
 		],
 		"mechConflicts": [
 			"Cooling_diss100",
+			"ROYAL_DHS_KIT",
 			"RADICAL_DHS_KIT",
 			"CLAN_DHS_KIT",
 			"COMPACT_HS_KIT",
+			"RADICAL_COMPACT_KIT",
 			"ClanLHS79",
 			"ClanDHS79",
 			"DoubleHeatSink",
@@ -132,9 +212,11 @@
 	"SingleHeatSink": {
 		"mechConflicts": [
 			"Cooling_diss100",
+			"ROYAL_DHS_KIT",
 			"RADICAL_DHS_KIT",
 			"CLAN_DHS_KIT",
 			"COMPACT_HS_KIT",
+			"RADICAL_COMPACT_KIT",
 			"PROTO_DHS_KIT",
 			"RADICAL_PROTO_DHS_KIT",
 			"CompactHeatSink79",
@@ -157,9 +239,11 @@
 		],
 		"mechConflicts": [
 			"Cooling_diss100",
+			"ROYAL_DHS_KIT",
 			"RADICAL_DHS_KIT",
 			"CLAN_DHS_KIT",
 			"COMPACT_HS_KIT",
+			"RADICAL_COMPACT_KIT",
 			"PROTO_DHS_KIT",
 			"RADICAL_PROTO_DHS_KIT",
 			"CompactHeatSink79",
